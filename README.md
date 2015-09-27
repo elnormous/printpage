@@ -8,7 +8,7 @@ Include the script file
 <script src="printpage.js"></script>
 ```
 
-Call the printPage
+Call the printPage function
 ```javascript
 printPage("http://www.example.com");
 ```
